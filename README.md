@@ -36,8 +36,8 @@
 
 ## Usage
 
-1. download `starship.toml` file to `~/.config/`
-2. uncomment line with preffered palette
+1. paste `starship.toml` file to `~/.config/`
+2. uncomment line in `starship.toml` with preffered palette(at beginning of the file)
 
 ## 💝 Thanks to
 
