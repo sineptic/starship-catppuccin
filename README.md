@@ -42,6 +42,7 @@
 ## 💝 Thanks to
 
 - [sineptic](https://github.com/sineptic)
+- [gruvbox rainbow preset](https://starship.rs/presets/gruvbox-rainbow.html)
 
 &nbsp;
 
