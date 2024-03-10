@@ -37,7 +37,7 @@
 ## Usage
 
 1. download `starship.toml` file to `~/.config/`
-2. choose preferred palette
+2. uncomment line with preffered palette
 
 ## 💝 Thanks to
 

@@ -1,3 +1,6 @@
+# palette = 'catppuccin_latte'
+# palette = 'catppuccin_frappe'
+# palette = 'catppuccin_macchiato'
 palette = 'catppuccin_mocha'
 
 format = """
