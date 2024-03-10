@@ -36,14 +36,12 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. download starship.toml file to ~/.config/
+2. choose preferred palette
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [sineptic](https://github.com/sineptic)
 
 &nbsp;
 
