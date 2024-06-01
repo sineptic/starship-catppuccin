@@ -133,17 +133,17 @@ format = '[$symbol$context ]($style)'
 style = 'fg:color_blue bg:color_mantle'
 
 [golang]
-symbol = ' '
-format = '[$symbol($version )]($style)'
+symbol = ''
+format = '[$symbol ($version )]($style)'
 style = 'fg:color_lavender bg:color_mantle'
 
 [lua]
-symbol = ' '
-format = '[$symbol($version )]($style)'
+symbol = ''
+format = '[$symbol ($version )]($style)'
 style = 'fg:color_lavender bg:color_mantle'
 
 [nodejs]
-symbol = ' '
+symbol = ''
 format = '[$symbol ($version )]($style)'
 style = 'fg:color_lavender bg:color_mantle'
 
