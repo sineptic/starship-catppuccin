@@ -144,6 +144,7 @@ style = 'fg:color_lavender bg:color_mantle'
 
 [nodejs]
 symbol = ' '
+format = '[$symbol ($version )]($style)'
 style = 'fg:color_lavender bg:color_mantle'
 
 [python]
